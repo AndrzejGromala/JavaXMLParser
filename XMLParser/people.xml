@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<people>
+    <person id="1">
+    <lastname>Dot</lastname>
+    <firstname>John</firstname>
+</person>
+    <person id="2">
+        <lastname>Smith</lastname>
+        <firstname>Tom</firstname>
+    </person>
+    <person id="3">
+        <lastname>Johanson</lastname>
+        <firstname>Jenny</firstname>
+    </person>
+</people>
